@@ -1,0 +1,36 @@
+
+ :: CHAPTER ::
+ Title: Capituo 1
+ Year: 2018
+ Creator: creator1
+ Duration: 45
+
+ :: CHAPTER ::
+ Title: Capituo 2
+ Year: 2019
+ Creator: creator2
+ Duration: 45
+
+ :: CHAPTER ::
+ Title: Capituo 3
+ Year: 2020
+ Creator: creator3
+ Duration: 45
+
+ :: CHAPTER ::
+ Title: Capituo 4
+ Year: 2021
+ Creator: creator4
+ Duration: 45
+
+ :: CHAPTER ::
+ Title: Capituo 5
+ Year: 2022
+ Creator: creator5
+ Duration: 45
+
+ :: BOOK ::
+ Title: 1 Book
+ Editorial: Editorial 0
+ Edition Date: Tue Aug 07 14:22:30 COT 2018
+ Authors: 	author 0	author 1	author 2
