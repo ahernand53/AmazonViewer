@@ -46,7 +46,7 @@ public interface MovieDAO extends IDBConnection {
     }
 
 
-    default boolean getMovieViewed(PreparedStatement preparedStatement, Connection connection, int movie_id) {
+    private boolean getMovieViewed(PreparedStatement preparedStatement, Connection connection, int movie_id) {
           boolean viewed = false;
           String query = "SELECT * FROM " + TAB_VIEWED
                   + " WHERE " + TAB_VIEWED_MATERIAL_ID + "= ?"

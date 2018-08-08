@@ -4,7 +4,10 @@
     <option name="SCOPE_TYPE" value="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63d73a15-eab4-48bf-82c7-515460ac87a0" name="Default Changelist" comment="" />
+    <list default="true" id="63d73a15-eab4-48bf-82c7-515460ac87a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +66,7 @@
     <session id="1491453653">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -75,8 +78,8 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="COPYING" value="1" />
-          <entry key="MODULES/mdl-AmazonViewer" value="1" />
-          <entry key="amazonviewer" value="2" />
+          <entry key="MODULES/mdl-AmazonViewer" value="2" />
+          <entry key="amazonviewer" value="3" />
           <entry key="classpath" value="1" />
           <entry key="java" value="17" />
           <entry key="material" value="2" />
@@ -96,7 +99,7 @@
           <entry key="JAVA" value="17" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="Scratch" value="5" />
-          <entry key="UML" value="4" />
+          <entry key="UML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -122,8 +125,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="163" lean-forward="true" selection-start-line="163" selection-end-line="163" />
+            <state relative-caret-position="1920">
+              <caret line="231" column="39" selection-start-line="231" selection-start-column="39" selection-end-line="231" selection-end-column="39" />
               <folding>
                 <element signature="method#showMovies#0;class#Main#0" />
                 <element signature="method#showChapters#0;class#Main#0" />
@@ -157,7 +160,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/model/Film.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
-              <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+              <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
               <folding>
                 <element signature="e#1482#1483#0" expanded="true" />
               </folding>
@@ -187,7 +190,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/dao/MovieDAO.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="666">
-              <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+              <caret line="120" selection-start-line="120" selection-end-line="120" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -199,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/model/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="321">
-              <caret line="119" column="23" lean-forward="true" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+              <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#stopToSee#0;class#Movie#0" />
@@ -224,6 +227,9 @@
     <findStrings>
       <find>showMe</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -269,6 +275,7 @@
     <option name="width" value="1309" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -281,31 +288,6 @@
             <path>
               <item name="AmazonViewer" type="b2602c69:ProjectViewProjectNode" />
               <item name="AmazonViewer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AmazonViewer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AmazonViewer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AmazonViewer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AmazonViewer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amazonviewer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AmazonViewer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AmazonViewer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amazonviewer" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AmazonViewer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AmazonViewer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="amazonviewer" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,7 +308,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533669894387" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533735015371" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-5.1.15-bin (1).jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -383,12 +365,12 @@
       <workItem from="1533438592471" duration="22020000" />
       <workItem from="1533566963603" duration="13522000" />
       <workItem from="1533656623506" duration="273000" />
-      <workItem from="1533656966467" duration="10558000" />
+      <workItem from="1533656966467" duration="12250000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51003000" />
+    <option name="totallyTimeSpent" value="52695000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -400,7 +382,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="26" width="1305" height="742" extended-state="6" />
+    <frame x="61" y="158" width="1305" height="742" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23351866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -416,7 +399,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32792208" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32792208" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039715" side_tool="true" weight="0.32792208" />
@@ -496,55 +479,6 @@
             <element signature="e#844#845#0" expanded="true" />
             <element signature="e#885#886#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MODULES/mdl-AmazonViewer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MODULES</ID>
-          <OriginalElement>mdl-AmazonViewer</OriginalElement>
-          <nodes>
-            <node x="" y="">mdl-AmazonViewer</node>
-            <node x="" y="">mdl-MakeReport</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="101.0" y="57.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.anncode.amazonviewer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.anncode.amazonviewer</OriginalElement>
-          <nodes>
-            <node x="" y="">com.anncode.amazonviewer.Main</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Chapter</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Movie</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Book</node>
-            <node x="" y="">com.anncode.amazonviewer.model.IVisualizable</node>
-            <node x="" y="">com.anncode.amazonviewer.util.AmazonUtil</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Magazine</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Film</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Publication</node>
-            <node x="" y="">com.anncode.amazonviewer.model.Serie</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.40493468795355586" x="660.0" y="679.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-            <Category>Properties</Category>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>public</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -654,7 +588,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/dao/MovieDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
-          <caret line="120" lean-forward="true" selection-start-line="120" selection-end-line="120" />
+          <caret line="120" selection-start-line="120" selection-end-line="120" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -671,7 +605,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/model/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
-          <caret line="119" column="23" lean-forward="true" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#stopToSee#0;class#Movie#0" />
@@ -691,7 +625,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/model/Film.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
-          <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
           <folding>
             <element signature="e#1482#1483#0" expanded="true" />
           </folding>
@@ -728,10 +662,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="uml://JAVA/com.anncode.amazonviewer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.anncode.amazonviewer</OriginalElement>
+          <nodes>
+            <node x="" y="">com.anncode.amazonviewer.Main</node>
+            <node x="" y="">com.anncode.amazonviewer.db</node>
+            <node x="" y="">com.anncode.amazonviewer.util</node>
+            <node x="" y="">com.anncode.amazonviewer.dao</node>
+            <node x="" y="">com.anncode.amazonviewer.model</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="173.0" y="244.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Constructors</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MODULES/mdl-AmazonViewer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-AmazonViewer</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-AmazonViewer</node>
+            <node x="" y="">lib-annotations-16.0.2.jar</node>
+            <node x="" y="">mdl-MakeReport</node>
+            <node x="" y="">lib-MakeReport</node>
+            <node x="" y="">lib-mysql-connector-java-5.1.15-bin (1)</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.9545004945598418" x="485.5" y="57.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Libraries</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/anncode/amazonviewer/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="163" lean-forward="true" selection-start-line="163" selection-end-line="163" />
+        <state relative-caret-position="1920">
+          <caret line="231" column="39" selection-start-line="231" selection-start-column="39" selection-end-line="231" selection-end-column="39" />
           <folding>
             <element signature="method#showMovies#0;class#Main#0" />
             <element signature="method#showChapters#0;class#Main#0" />
